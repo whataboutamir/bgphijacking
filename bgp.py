@@ -57,7 +57,8 @@ class Router(Switch):
 
 
 class SimpleTopo(Topo):
-    """The Autonomous System topology is demonstrated in fig2_topo.pdf.
+    """The Autonomous System topology is demonstrated in the fig.
+    in README.
     The rogue AS (AS6) connects to AS5 directly.
     """
 
